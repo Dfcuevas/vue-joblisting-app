@@ -20,6 +20,7 @@ export default defineConfig({
         manualChunks: undefined,
       },
     },
+    sourcemap: true,
   },
   resolve: {
     alias: {

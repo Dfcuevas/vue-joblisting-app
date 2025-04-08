@@ -4,14 +4,28 @@
       "id": 1,
       "type": "Full-Time",
       "title": "Senior Vue.js Developer",
-      "description": "We are looking for a Senior Vue.js Developer...",
+      "description": "We are looking for a Senior Vue.js Developer with experience in Vue 3, Composition API, and modern JavaScript. The ideal candidate will have strong problem-solving skills and a passion for creating efficient, scalable applications.",
       "salary": "$100K - $125K",
       "location": "Remote",
       "company": {
         "name": "Tech Corp",
-        "description": "A leading technology company",
+        "description": "A leading technology company specializing in web applications",
         "contactEmail": "jobs@techcorp.com",
         "contactPhone": "123-456-7890"
+      }
+    },
+    {
+      "id": 2,
+      "type": "Part-Time",
+      "title": "Frontend Developer",
+      "description": "Looking for a Frontend Developer to join our team. Experience with Vue.js, JavaScript, and CSS required.",
+      "salary": "$50K - $60K",
+      "location": "New York",
+      "company": {
+        "name": "Web Solutions Inc",
+        "description": "Innovative web solutions company",
+        "contactEmail": "careers@websolutions.com",
+        "contactPhone": "987-654-3210"
       }
     }
   ]

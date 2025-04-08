@@ -3,7 +3,12 @@
   publish = "dist"
 
 [[redirects]]
-  from = "/api/*"
+  from = "/api/jobs/*"
+  to = "/db.json"
+  status = 200
+
+[[redirects]]
+  from = "/api/jobs"
   to = "/db.json"
   status = 200
 
