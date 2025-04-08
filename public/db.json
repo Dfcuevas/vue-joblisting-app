@@ -1,0 +1,18 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "type": "Full-Time",
+      "title": "Senior Vue.js Developer",
+      "description": "We are looking for a Senior Vue.js Developer...",
+      "salary": "$100K - $125K",
+      "location": "Remote",
+      "company": {
+        "name": "Tech Corp",
+        "description": "A leading technology company",
+        "contactEmail": "jobs@techcorp.com",
+        "contactPhone": "123-456-7890"
+      }
+    }
+  ]
+}
